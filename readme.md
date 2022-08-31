@@ -273,7 +273,7 @@ window.ContactsX.save(
     firstName: "Hans",
     familyName: "Test",
     organizationName : "Einfach",
-    phoneNumebers: [{
+    phoneNumbers: [{
       type: "mobile",
       value: "110"
     }]
